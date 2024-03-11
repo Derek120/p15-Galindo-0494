@@ -24,7 +24,7 @@ class Pantallainicia_l0494 extends StatelessWidget {
                 onPressed: () {
                   Navigator.pushNamed(context, '/pantalla1_0494');
                 },
-                child: const Text('mover a pantalla 1')),
+                child: const Text('mover a pantalla 2')),
           ], //fin niños
         ),
       ),

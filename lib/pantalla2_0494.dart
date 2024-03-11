@@ -9,8 +9,7 @@ class Pantalla2_0494 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('pantalla2 Galindo_0494'),
-      ),
+          title: Text('pantalla2 Galindo_0494'), backgroundColor: Colors.black),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
