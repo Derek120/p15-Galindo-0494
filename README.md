@@ -1,19 +1,7 @@
 # p13rouler0494
 
-A new Flutter project created with FlutLab - https://flutlab.io
-
-## Getting Started
-
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+https://github.com/flutter-teacher/container-widget/blob/main/main.dart
+![image](https://github.com/Derek120/p15-Galindo-0494/assets/159184890/5617ae34-780d-48ab-81ae-4047ada679ba)
+![image](https://github.com/Derek120/p15-Galindo-0494/assets/159184890/a2cfc356-4be2-49a7-a6d5-aea9bcf20ffd)
+![image](https://github.com/Derek120/p15-Galindo-0494/assets/159184890/5b2ff269-b40a-43c0-bc6c-004025b8b697)
+![image](https://github.com/Derek120/p15-Galindo-0494/assets/159184890/d8c1635e-5607-441f-a6f8-dd42f288e90e)
