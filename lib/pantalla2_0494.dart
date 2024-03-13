@@ -10,22 +10,19 @@ class Pantalla2_0494 extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
           title: Text('pantalla2 Galindo_0494'),
-          backgroundColor: Color(0xff009aff)),
+          backgroundColor: Color(0xff2a682a)),
       body: Center(
         child: Container(
-          color: Color(0xff059d00),
-          width: double.infinity,
-          height: 300,
-          child: Card(
-            color: Color(0xff00640d),
-            margin: EdgeInsets.all(35),
-            child: Padding(
-              padding: EdgeInsets.all(16),
-              child: Text(
-                'Card Galindo',
-                style: const TextStyle(fontSize: 30, color: Color(0xff40ffff)),
-              ),
-            ),
+          color: Color(0xff005203),
+          constraints: BoxConstraints(
+            minHeight: 100,
+            minWidth: 200,
+            maxHeight: 300,
+            maxWidth: 300,
+          ),
+          child: Text(
+            'card2 Galindo 0494',
+            style: TextStyle(fontSize: 30, color: Color(0xff5fff95)),
           ),
         ),
       ),
